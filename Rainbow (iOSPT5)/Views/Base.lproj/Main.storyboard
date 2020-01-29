@@ -33,7 +33,7 @@
                                     </subviews>
                                 </tableViewCellContentView>
                                 <connections>
-                                    <segue destination="EFW-bi-Oqk" kind="show" id="gtv-Ij-PUo"/>
+                                    <segue destination="EFW-bi-Oqk" kind="show" identifier="ToDetailViewController" id="gtv-Ij-PUo"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
